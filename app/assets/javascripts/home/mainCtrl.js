@@ -18,4 +18,4 @@ angular.module('flapperNews')
       posts.upvote(post);
     };
   }
-])
+]);

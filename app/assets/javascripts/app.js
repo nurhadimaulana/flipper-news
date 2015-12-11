@@ -49,4 +49,4 @@ angular.module('flapperNews', ['ui.router', 'templates', 'Devise'])
 
     $urlRouterProvider.otherwise('home');
   }
-])
+]);
